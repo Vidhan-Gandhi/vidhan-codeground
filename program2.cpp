@@ -6,7 +6,7 @@ int main() {
     freopen("output.txt", "w", stdout);
     
     // Your code here
-    cout << "hello, this is Vidhan";
+    cout << "hello, this is Vidhan!";
 
     return 0;
 }
